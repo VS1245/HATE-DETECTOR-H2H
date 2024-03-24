@@ -20,5 +20,18 @@ The project uses the Jigsaw Toxic Comment Classification Challenge dataset from 
 ## Model Performance
 The model achieved an accuracy of 93.75% and a precision of 50% on the test dataset. The accuracy and precision can be further improved by adjusting the layers in the model architecture.
 
+## Contents
+The repo contains 2 files 'code.ipynb' which conatins the code and 'output.txt' contains the some outputs.
+Example -
+WELCOME TO HATE DETECTOR: H2H
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 106ms/step
+tweet: "I'll kill you"
+toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+
 ## Contributing
 Contributions to H2H are welcome! If you would like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
