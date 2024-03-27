@@ -29,11 +29,11 @@ Precision: 75%
 The accuracy and precision can be further improved by adjusting the layers in the model architecture.
 
 ## Contents
-#### code.py: 
+### code.py: 
 version1 of code
-#### codev2.py
+### codev2.py
 version2 of code
-#### output.txt
+### output.txt
 contains sample outputs
 Example -  
 WELCOME TO HATE DETECTOR: H2H  
