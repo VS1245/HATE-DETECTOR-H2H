@@ -18,7 +18,15 @@ Once you have set up the project, you can use H2H to analyze tweets for hate con
 The project uses the Jigsaw Toxic Comment Classification Challenge dataset from Kaggle. The dataset contains comments from Wikipedia discussions, along with labels for various types of toxicity.
 
 ## Model Performance
-The model achieved an accuracy of 93.75% and a precision of 50% on the test dataset. The accuracy and precision can be further improved by adjusting the layers in the model architecture.
+### Model 1 (code.py)
+Accuracy: 93.75%
+Precision: 50%
+
+### Model 2 (codev2.py)
+Accuracy: 98.95%
+Precision: 75%
+
+The accuracy and precision can be further improved by adjusting the layers in the model architecture.
 
 ## Contents
 The repo contains 2 files 'code.ipynb' which conatins the code and 'output.txt' contains the some outputs.  
