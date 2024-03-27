@@ -29,7 +29,12 @@ Precision: 75%
 The accuracy and precision can be further improved by adjusting the layers in the model architecture.
 
 ## Contents
-The repo contains 2 files 'code.ipynb' which conatins the code and 'output.txt' contains the some outputs.  
+#### code.py: 
+version1 of code
+#### codev2.py
+version2 of code
+#### output.txt
+contains sample outputs
 Example -  
 WELCOME TO HATE DETECTOR: H2H  
 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 106ms/step  
